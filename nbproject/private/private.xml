@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/conexion/Conexion.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorLogin.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaPerfume.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/main/Main.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Persona.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/dao/interfaces/IGenericoDAO.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Perfume.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/dao/ProveedorDAO.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/dao/PerfumeDAO.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaProveedor.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaCliente.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaLogin.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorProveedor.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorCliente.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorPerfume.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Proveedor.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaVentas.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaMenuPrincipal.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/vista/VistaInventario.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/Imagenes/logo.jpeg</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/dao/VentaDAO.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorInventario.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/controlador/ControladorMenuPrincipal.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/lomar/OneDrive/Documentos/CRUDEscuelaMVC/src/modelo/Venta.java</file>
+        </group>
+    </open-files>
+</project-private>
